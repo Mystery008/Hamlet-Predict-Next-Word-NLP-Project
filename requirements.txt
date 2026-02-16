@@ -7,3 +7,4 @@ matplotlib
 streamlit
 scikeras
 keras==2.13.1
+nltk==3.8.1
